@@ -1,7 +1,7 @@
 # CNC-pen-plotter
 Custom 2-axis CNC pen plotter designed and built from the ground up. Features belt-driven X/Y motion with stepper motors, Arduino/GRBL control, and a workflow using Fusion 360, Inkscape, and UGS.
 
-##Finished project
+## Finished project
 
 ![Finished CNC Plotter](fin.gif)
 
@@ -14,6 +14,6 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 - Control stepper motors using an Arduino
 - Develop a machine capable of accurately drawing programmed designs
 
-##Timeline/Milestones
+## Timeline/Milestones
 1. Designed, fabricated, and assembled first carriage
    
