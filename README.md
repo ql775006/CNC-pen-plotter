@@ -17,5 +17,5 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 
 ## Timeline/Milestones
 1. Designed, fabricated, and assembled first carriage
-![firstcarriage](firstCarriagecomplete.JPG)
+![firstcarriage](pictures/firstCarriagecomplete.JPG)
 
