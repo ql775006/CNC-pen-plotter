@@ -76,10 +76,13 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 -----------------------------------
 
 
-6. Carriage REVAMP
+6. Carriage REVAMP and reassembly
 
    > First version designs were merely just for POC and functionality. Now that I now that it does work, it is time to redesign to make them more polished and professional.
    > Utilized more of the filet and chamfer tools and a few designs to save material.
+   > Reassembled everything on a different base (6mm birchwood) because it was cheaper and I needed 2x2
+   > Attached the new carriages and screwed on the pen module on the second carriage.
+   > At this point most of the mechanical stuff is done
 
-![secondaxisrevamp](media/pictures/secondcarriagev2complete.JPG) ![secondaxisrevamp](media/pictures/snapshotv2.JPG) ![secondaxisrevamp](media/cad/firstcarriageredesign.PNG)
+![secondaxisrevamp](media/pictures/secondcarriagev2complete.JPG)  ![secondaxisrevamp](media/cad/firstcarriageredesign.PNG) ![secondaxisrevamp](media.cad/secondcarriageredesign2.PNG)
 
