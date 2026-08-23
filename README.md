@@ -23,5 +23,12 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
    --> After many test prints and utilizing a digital caliper I was finally able to achieve a viable test print.
 
    
-![firstcarriage](media/pictures/firstCarriagecomplete.JPG)  ![firstcarriagecad](media/cad/x_axiscarriagedesignv1.jpg)
+![firstcarriage](media/pictures/firstCarriagecomplete.JPG) ![firstcarriagecad](media/cad/x_axiscarriagedesignv1.jpg)
+
+2. Assembled my first sliding mechanism
+
+ > Nothing too crazy here, just fabricated some basic supports to hold the 400x8mm steel rod and inserted the carriage in between to build the sliding frame.
+
+![slidingmechanism](media/GIF/slidingcarriagecomplete.gif)
+
 
