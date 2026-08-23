@@ -54,12 +54,21 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 -----------------------------------
 
 
-4. second axis complete
+4. Second axis complete
 
    > Redesigned the first carriage to add screw holes to mount supports (stacking the second axis on top of the first carriage)
 
 ![secondaxiscomplete](media/GIF/secondaxiscomplete.gif). ![secondaxiscomplete](media/pictures/Secondcarriage.jpg)
 
-   
 
+-----------------------------------
+
+
+5. Pen module servo linkage mechanism
+
+   > For the pen module, I decided to go with a servo linkage mechanism, where I fabricate a custom servo horn, thats screwed to a little linkage rod and it pulls the pen holder up and down. The movement is restricted using 3mm steel rods that have been cut down in length.
+
+   > Hooked up to an arduino and the side of my desk to test and it does work
+
+![servolinkage](media/pictures/Servolinkage.jpg). ![servolinkage](media/GIF/servolinkage.gif)
 
