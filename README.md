@@ -23,5 +23,5 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
    --> After many test prints and utilizing a digital caliper I was finally able to achieve a viable test print.
 
    
-![firstcarriage](media/pictures/firstCarriagecomplete.JPG)  ![firstcarriagecad](media/cad/x_carriagedesignv1.PNG)
+![firstcarriage](media/pictures/firstCarriagecomplete.JPG)  ![firstcarriagecad](media/cad/x_carriagedesignv1.jpg)
 
