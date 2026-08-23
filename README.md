@@ -15,20 +15,51 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 - Control stepper motors using an Arduino
 - Develop a machine capable of accurately drawing programmed designs
 
+
 ## Timeline/Milestones
 1. Designed, fabricated, and assembled first carriage
 
    What was the most challenging part?
-   > Learning cad from scratch and gauging dimensions for the holes for inserting the lm8uu linear bearings
+   --> Learning cad from scratch and gauging dimensions for the holes for inserting the lm8uu linear bearings
    --> After many test prints and utilizing a digital caliper I was finally able to achieve a viable test print.
 
    
 ![firstcarriage](media/pictures/firstCarriagecomplete.JPG) ![firstcarriagecad](media/cad/x_axiscarriagedesignv1.jpg)
+
+
+-----------------------------------
+
+
 
 2. Assembled my first sliding mechanism
 
  > Nothing too crazy here, just fabricated some basic supports to hold the 400x8mm steel rod and inserted the carriage in between to build the sliding frame.
 
 ![slidingmechanism](media/GIF/slidingcarriagecomplete.gif)
+
+
+-----------------------------------
+
+
+3. First axis complete
+
+   > Assembled the carriage, supports, the idler pulley and nema mount structure (v1) to a 8mm plywood base with m5 screws. Used a metal piece that came with a gt2 kit to clamp the two ends of the belt to the carriage.
+
+   What was the most challenging part?
+   --> Definitely trying to make sure everything was leveled so that the belt had proper tension, After adjusting the belt length and the clamp, I finally was able to get my first axis working.
+
+![firstaxiscomplete](media/GIF/firstaxiscomplete.gif)
+
+
+-----------------------------------
+
+
+4. second axis complete
+
+   > Redesigned the first carriage to add screw holes to mount supports (stacking the second axis on top of the first carriage)
+
+![secondaxiscomplete](media/GIF/secondaxiscomplete.gif). ![secondaxiscomplete](media/pictures/Secondcarriage.JPG)
+
+   
 
 
