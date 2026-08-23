@@ -70,7 +70,7 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 
    > Hooked up to an arduino and the side of my desk to test and it does work.
 
-![servolinkage](media/GIF/servolinkage.gif)
+![servolinkage](media/GIF/servolinkage.gif) ![servolinkage](media/cad/Penmodule.PNG)
 
 
 -----------------------------------
@@ -81,5 +81,5 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
    > First version designs were merely just for POC and functionality. Now that I now that it does work, it is time to redesign to make them more polished and professional.
    > Utilized more of the filet and chamfer tools and a few designs to save material.
 
-![secondaxisrevamp](media/pictures/secondcarriagev2complete.JPG) ![secondaxisrevamp](media/pictures/snapshotv2.JPG)
+![secondaxisrevamp](media/pictures/secondcarriagev2complete.JPG) ![secondaxisrevamp](media/pictures/snapshotv2.JPG) ![secondaxisrevamp](media/cad/firstcarriageredesign.PNG)
 
