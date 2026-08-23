@@ -19,7 +19,7 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 ## Timeline/Milestones
 1. Designed, fabricated, and assembled first carriage
 
-   What was the most challenging part?
+   The Challenge
    > Learning cad from scratch and gauging dimensions for the holes for inserting the lm8uu linear bearings
    > After many test prints and utilizing a digital caliper I was finally able to achieve a viable test print.
 
@@ -45,7 +45,7 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 
    > Assembled the carriage, supports, the idler pulley and nema mount structure (v1) to a 8mm plywood base with m5 screws. Used a metal piece that came with a gt2 kit to clamp the two ends of the belt to the carriage.
 
-   What was the most challenging part?
+   The Challenge
    > Definitely trying to make sure everything was leveled so that the belt had proper tension, After adjusting the belt length and the clamp, I finally was able to get my first axis working.
 
 ![firstaxiscomplete](media/GIF/firstaxiscomplete.gif). ![firstaxiscomplete](media/pictures/snapshotv1.JPG)
@@ -81,5 +81,5 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
    > First version designs were merely just for POC and functionality. Now that I now that it does work, it is time to redesign to make them more polished and professional.
    > Utilized more of the filet and chamfer tools and a few designs to save material.
 
-![secondaxisrevamp](media/pictures/secondcarriagev2complete.JPG)
+![secondaxisrevamp](media/pictures/secondcarriagev2complete.JPG) ![secondaxisrevamp](media/pictures/snapshotv2.JPG)
 
