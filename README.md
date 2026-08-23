@@ -84,5 +84,5 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
    > Attached the new carriages and screwed on the pen module on the second carriage.
    > At this point most of the mechanical stuff is done
 
-![secondaxisrevamp](media/pictures/secondcarriagev2complete.JPG)  ![secondaxisrevamp](media/cad/firstcarriageredesign.PNG) ![secondaxisrevamp](media.cad/secondcarriageredesign2.PNG)
+![secondaxisrevamp](media/pictures/secondcarriagev2complete.JPG)  ![secondaxisrevamp](media/cad/firstcarriageredesign.PNG) ![secondaxisrevamp](media/cad/secondcarriageredesign2.PNG) ![secondaxisrevamp](Carriagerevamp.JPG)
 
