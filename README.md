@@ -15,21 +15,30 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 - Control stepper motors using an Arduino
 - Develop a machine capable of accurately drawing programmed designs
 
-## Stuff I used
+## Mechanical Design (parts and CAD)
+-  LM8UU Linear Bearings (25mm,45mm)
+-  Steel rods (400mm, 250mm)
+-  6mm GT2 timing belt
+-  20t pulley
+-  idler pulley
+-----------------
+- ground rod supports (screwed supports to the birchwood base
+
+## Electronics
 - Arduino UNO R3
 - CNC shield
-- LM8UU Linear Bearings (25mm,45mm)
-- Steel rods (400mm, 250mm)
-- 6mm GT2 timing belt
-- 20t pulley
-- idler pulley
 - SG90 hobby servo
 - 5v 30mm fan
-- 3D printed parts
-- Inkscape
-- Universal G-code Sender 
-  
+- Limit switches
 
+## Software
+- Inkscape
+- Arduino IDE
+- Universal G-code Sender (UGS)
+  
+## How does it work?
+G-code is uploaded to a g-code compiler --> GRBL executes g-code and sends the movement commands to the arduino --> CNC shield sends signals to stepper drivers --> stepper motor coils energize
+--> steppers drive belt mechanism --> belt moves the clamped carriage --> pen module moves around and drives a servo linkage mechanism to move the pen up and down on the canvas
 
 ## Timeline/Milestones
 1. Designed, fabricated, and assembled first carriage
