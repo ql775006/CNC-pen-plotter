@@ -138,6 +138,10 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 
    > - Downloaded Inkscape to create g-code
    > - Downloaded UGS (universal g-code sender) to compile and trace g-code.
+   > - Woodglued 2 more 12x12, 6mm birchwood to expand canvas.
+   > - Added and tuned a paper bed for more consistent tracing
+   > - Switched from fine tip sharpie to a micron pen for cleaner strokes.
+
 
    ![A_fill](media/GIF/A_fill.gif)
 
