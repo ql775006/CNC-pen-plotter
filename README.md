@@ -86,3 +86,20 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 
 ![secondaxisrevamp](media/pictures/secondcarriagev2complete.JPG)  ![secondaxisrevamp](media/cad/firstcarriageredesign.PNG) ![secondaxisrevamp](media/cad/Secondcarriageredesign2.PNG) ![secondaxisrevamp](media/pictures/Carriagerevamp.JPG)
 
+
+-----------------------------------
+
+
+7. Homing
+   
+   > Looked up the official GITHUB and uploaded the firmware to my Arduino.
+   > Used the Serial monitor to test out some $commands
+   > Calibrated $$ (settings) to correct stepper direction and speed for homing sequence
+   
+![homing](media/GIF/homing.gif)
+
+-----------------------------------
+
+
+   
+   
