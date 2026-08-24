@@ -15,6 +15,19 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 - Control stepper motors using an Arduino
 - Develop a machine capable of accurately drawing programmed designs
 
+## Stuff I used
+- Arduino UNO R3
+- CNC shield
+- LM8UU Linear Bearings (25mm,45mm)
+- Steel rods (400mm, 250mm)
+- 6mm GT2 timing belt
+- 20t pulley
+- idler pulley
+- SG90 hobby servo
+- 5v 30mm fan
+- 3D printed parts
+  
+
 
 ## Timeline/Milestones
 1. Designed, fabricated, and assembled first carriage
