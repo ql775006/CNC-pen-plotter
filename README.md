@@ -31,6 +31,7 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 
 ## Electronics
 - Arduino UNO R3
+- NEMA 17 stepper motors
 - CNC shield
 - SG90 hobby servo
 - 5v 30mm fan
@@ -184,6 +185,24 @@ G-code is uploaded to a g-code compiler --> GRBL executes g-code and sends the m
 
 
    ![A_fill](media/GIF/A_fill.gif)
+
+
+
+
+
+----------------------------
+## Challenges and Solutions
+
+1. Gauging dimensions for the holes to fit my LM8UU bearings
+   --> Utilized a digital caliper and printed many test prints to find a suitable fit
+
+2. Adjusting belt tension and alignment
+   --> Designed a custom clamp that allows the belt tension to be adjusted, zip ties are used to prevent any teeth slip
+
+3. Servo linkage alignment
+   --> Added multiple mounting holes and space for the pen module for flexibility. Extruded the region around the screw hole until the linkage rod is aligned with the servo horn (misalignment creates twisting.
+
+4. 
 
    
    
