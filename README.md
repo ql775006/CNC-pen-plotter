@@ -27,7 +27,10 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 ![firstcarriage](media/pictures/firstCarriagecomplete.JPG) ![firstcarriagecad](media/cad/x_axiscarriagedesignv1.jpg)
 
 
+
+
 -----------------------------------
+
 
 
 
@@ -38,7 +41,11 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 ![slidingmechanism](media/GIF/slidingcarriagecomplete.gif)
 
 
+
+
 -----------------------------------
+
+
 
 
 3. First axis complete
@@ -51,7 +58,11 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 ![firstaxiscomplete](media/GIF/firstaxiscomplete.gif). ![firstaxiscomplete](media/pictures/snapshotv1.JPG)
 
 
+
+
 -----------------------------------
+
+
 
 
 4. Second axis complete
@@ -61,33 +72,45 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 ![secondaxiscomplete](media/GIF/secondaxiscomplete.gif). ![secondaxiscomplete](media/pictures/Secondcarriage.jpg)
 
 
+
+
 -----------------------------------
+
+
 
 
 5. Pen module servo linkage mechanism
 
-   > For the pen module, I decided to go with a servo linkage mechanism, where I fabricate a custom servo horn, thats screwed to a little linkage rod and it pulls the pen holder up and down. The movement is restricted using 3mm steel rods that have been cut down in length.
+   > - For the pen module, I decided to go with a servo linkage mechanism, where I fabricate a custom servo horn, thats screwed to a little linkage rod and it pulls the pen holder up and down. The movement is restricted using 3mm steel rods that have been cut down in length.
 
-   > Hooked up to an arduino and the side of my desk to test and it does work.
+   > - Hooked up to an arduino and the side of my desk to test and it does work.
 
 ![servolinkage](media/GIF/servolinkage.gif) ![servolinkage](media/cad/Penmodule.PNG)
 
 
+
+
 -----------------------------------
+
+
 
 
 6. Carriage REVAMP and reassembly
 
-   > First version designs were merely just for POC and functionality. Now that I now that it does work, it is time to redesign to make them more polished and professional.
-   > Utilized more of the filet and chamfer tools and a few designs to save material.
-   > Reassembled everything on a different base (6mm birchwood) because it was cheaper and I needed 2x2
-   > Attached the new carriages and screwed on the pen module on the second carriage.
-   > At this point most of the mechanical stuff is done
+   > - First version designs were merely just for POC and functionality. Now that I now that it does work, it is time to redesign to make them more polished and professional.
+   > - Utilized more of the filet and chamfer tools and a few designs to save material.
+   > - Reassembled everything on a different base (6mm birchwood) because it was cheaper and I needed 2x2
+   > - Attached the new carriages and screwed on the pen module on the second carriage.
+   > - At this point most of the mechanical stuff is done
 
 ![secondaxisrevamp](media/pictures/secondcarriagev2complete.JPG)  ![secondaxisrevamp](media/cad/firstcarriageredesign.PNG) ![secondaxisrevamp](media/cad/Secondcarriageredesign2.PNG) ![secondaxisrevamp](media/pictures/Carriagerevamp.JPG)
 
 
+
+
 -----------------------------------
+
+
 
 
 7. Homing and servo calibration
@@ -98,8 +121,16 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
    
 ![homing](media/GIF/homing.gif)
 
+
+
+
 -----------------------------------
 
+
+
+
+
+8. 
 
    
    
