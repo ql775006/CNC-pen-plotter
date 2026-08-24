@@ -23,6 +23,11 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 -  idler pulley
 -----------------
 - ground rod supports (screwed supports to the birchwood base
+- ground idler support (belt wraps around the idler pulley)
+- Carriage X axis (Carries the y axis)
+- Carriage Y axis (Carries the pen module)
+- Belt clamps (glued to the carriages for a more integrated design, holds onto the belt ends)
+- Stepper mounting structure (NEMA stepper is screw mounted)
 
 ## Electronics
 - Arduino UNO R3
@@ -79,7 +84,7 @@ G-code is uploaded to a g-code compiler --> GRBL executes g-code and sends the m
    The Challenge
    > Definitely trying to make sure everything was leveled so that the belt had proper tension, After adjusting the belt length and the clamp, I finally was able to get my first axis working.
 
-![firstaxiscomplete](media/GIF/firstaxiscomplete.gif). ![firstaxiscomplete](media/pictures/snapshotv1.JPG)
+![firstaxiscomplete](media/GIF/firstaxiscomplete.gif). 
 
 
 
@@ -93,7 +98,7 @@ G-code is uploaded to a g-code compiler --> GRBL executes g-code and sends the m
 
    > Redesigned the first carriage to add screw holes to mount supports (stacking the second axis on top of the first carriage)
 
-![secondaxiscomplete](media/GIF/secondaxiscomplete.gif). ![secondaxiscomplete](media/pictures/Secondcarriage.jpg)
+![secondaxiscomplete](media/GIF/secondaxiscomplete.gif). ![secondaxiscomplete](media/pictures/Secondcarriage.jpg) ![firstaxiscomplete](media/pictures/snapshotv1.JPG)
 
 
 
@@ -137,6 +142,17 @@ G-code is uploaded to a g-code compiler --> GRBL executes g-code and sends the m
 
 -----------------------------------
 
+
+
+
+7. Electronics housing design
+    
+    > - Holds the Arduino and CNC shield
+    > - Installed a 5v 30mm fan to cool the stepper drivers
+    > - Added some side vents for better cooling
+
+![electronicshousing](media/GIF/electronicshousing.gif)  ![electronicshousing](media/cad/Electronicshousing1.PNG). ![electronicshousing](media/pictures/elechousing.JPG)
+    
 
 
 
