@@ -26,6 +26,8 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 - SG90 hobby servo
 - 5v 30mm fan
 - 3D printed parts
+- Inkscape
+- Universal G-code Sender 
   
 
 
