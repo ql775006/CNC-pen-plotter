@@ -85,6 +85,9 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 
    > - Hooked up to an arduino and the side of my desk to test and it does work.
 
+   The Challenge
+   > Designing the custom servo horn and aligning the linkage rod, servo horn, and the pen holder to ensure smooth motion.
+
 ![servolinkage](media/GIF/servolinkage.gif) ![servolinkage](media/cad/Penmodule.PNG)
 
 
@@ -103,7 +106,7 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
    > - Attached the new carriages and screwed on the pen module on the second carriage.
    > - At this point most of the mechanical stuff is done
 
-![secondaxisrevamp](media/pictures/secondcarriagev2complete.JPG)  ![secondaxisrevamp](media/cad/firstcarriageredesign.PNG) ![secondaxisrevamp](media/cad/Secondcarriageredesign2.PNG) ![secondaxisrevamp](media/pictures/Carriagerevamp.JPG)
+![secondaxisrevamp](media/pictures/secondcarriagev2complete.JPG)  ![secondaxisrevamp](media/cad/firstcarriageredesign.PNG) ![secondaxisrevamp](media/cad/Secondcarriageredesign2.PNG) ![secondaxisrevamp](media/pictures/Carriagerevamp.JPG) ![cncsquare](media/GIF/cncisalive.gif)
 
 
 
@@ -117,6 +120,7 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
    
    > - Looked up the official GITHUB and uploaded the firmware to my Arduino.
    > - Used the Serial monitor to test out some $commands
+   > - Calibrated homing switches
    > - Calibrated $$ (settings) to correct stepper direction and speed for homing sequence
    
 ![homing](media/GIF/homing.gif)
