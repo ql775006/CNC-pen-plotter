@@ -134,7 +134,12 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 
 
 
-8. 
+8. Actually good tracing AND filling
+
+   > - Downloaded Inkscape to create g-code
+   > - Downloaded UGS (universal g-code sender) to compile and trace g-code.
+
+   ![A_fill](media/GIF/A_fill.gif)
 
    
    
