@@ -90,11 +90,11 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 -----------------------------------
 
 
-7. Homing
+7. Homing and servo calibration
    
-   > Looked up the official GITHUB and uploaded the firmware to my Arduino.
-   > Used the Serial monitor to test out some $commands
-   > Calibrated $$ (settings) to correct stepper direction and speed for homing sequence
+   > - Looked up the official GITHUB and uploaded the firmware to my Arduino.
+   > - Used the Serial monitor to test out some $commands
+   > - Calibrated $$ (settings) to correct stepper direction and speed for homing sequence
    
 ![homing](media/GIF/homing.gif)
 
