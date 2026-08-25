@@ -232,5 +232,13 @@ Inkscape is used to create the drawing and generate the G-code. UGS (Universal G
 - Converting servo rotation into linear motion using a linkage mechanism and guide rods
 - Using linear ball bearings to reduce friction and guide carriage movement
 - Using a CNC shield and stepper drivers to control NEMA 17 motors
-   
+
+
+
+----------------------------
+
+## What would I add for the future?
+- Potentionally improve the gantry design so it eliminates pretty much all the wobble (better clamping and a more integrated carriagedesign)
+- Expand the canvas and using longer steel rods for more travel
+  
    
