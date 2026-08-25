@@ -47,6 +47,7 @@ Custom 2-axis CNC pen plotter designed and built from the ground up. Features be
 ## Software
 - Inkscape
 - Arduino IDE
+- Autodesk Fusion
 - Universal G-code Sender (UGS)
   
 ### How Does It Work?
